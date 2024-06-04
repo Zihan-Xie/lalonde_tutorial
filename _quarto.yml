@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Tutorial for ‘LaLonde (1986) after Nearly Four Decades: Lessons Learned’"
